@@ -18,7 +18,7 @@ local function status(msg, level)
 end
 
 local root = get_root()
-local bundled = root .. "/bundled/mcp-hub"
+local bundled = root .. "/bundled/mcp-hub-bundled"
 
 -- Clean
 status("Cleaning bundled directory...")
